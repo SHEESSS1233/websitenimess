@@ -1,0 +1,28 @@
+.deril{
+    color: white;
+}
+.jomok{
+    position: absolute;
+    left: 44%;
+    top: 12%;
+    font-size: 150%;
+}
+.aseli{
+    width: 10%;
+    height: 5%;
+    margin-bottom: -1%;
+    display: flex;
+    justify-content: left;
+}
+.menu-item .menu-description i {
+    color: rgb(148, 43, 43);
+}
+.ptext p{
+    color: white;
+}
+.ptext h2{
+    color: white;
+}
+.ptext h3{
+    color: white;
+}
